@@ -1,0 +1,9 @@
+torch
+torchaudio
+pysoundfile
+huggingface_hub
+safetensors
+fastapi
+uvicorn
+python-multipart
+numpy
